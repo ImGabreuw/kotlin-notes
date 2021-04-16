@@ -8,6 +8,8 @@
 
 ## Como usar?
 
+### Ranges
+
 * Operador para representação de um **range**: ```..```
 * Palavra chave: ```for``` e ```in```
 
@@ -15,10 +17,28 @@
 
 <br>
 
-* Exemplo
+* Exemplo com números
   ```kotlin
   for (numero in 1..100) {
-      println(fizzBuzz(numero))
+      // Código
+  }
+  ```
+  
+* Exemplo com letras
+  ```kotlin
+  for (l in 'A'..'F') {
+      // Código
+  }
+  ```
+  
+### Maps
+
+* Palavra chave: ```for``` e ```in```
+
+* Exemplo
+  ```kotlin
+  for ((chave, valor) in MeuMap) {
+      // Código
   }
   ```
   
@@ -26,19 +46,31 @@
 
 ### kotlin-courses
 
-* **Exemplo**
+* **Exemplo de ranges de números**
   ```kotlin
-  fun fizzBuzz(numero: Int) = when {
-      numero % 15 == 0 -> "FizzBuzz "
-      numero % 3 == 0 -> "Fizz "
-      numero % 5 == 0 -> "Buzz "
-      else -> "$numero"
-  }
-
-  fun main() {
-      for (numero in 1..100) {
-          println(fizzBuzz(numero))
-      }
+  for (numero in 1..100) {
+      println(fizzBuzz(numero))
   }
   ```
 * **Código fonte**: clique [aqui](https://github.com/ImGabreuw/kotlin-courses/blob/master/douglas-motta/for/src/main/kotlin/Main.kt)
+
+---
+
+* **Exemplo de range de letras**
+  ```kotlin
+  for (c in 'A'..'F') {
+      val binary = Integer.toBinaryString(c.toInt())
+      binaryRepresentation[c] = binary
+  }
+  ```
+* **Código fonte**: clique [aqui](https://github.com/ImGabreuw/kotlin-courses/blob/master/douglas-motta/iteracao-em-maps/src/main/kotlin/Main.kt)
+
+---
+
+* **Exemplo de iteração em Maps**
+  ```kotlin
+  for ((letra, binary) in binaryRepresentation) {
+      println("$letra - $binary")
+  }
+  ```
+* **Código fonte**: clique [aqui](https://github.com/ImGabreuw/kotlin-courses/blob/master/douglas-motta/iteracao-em-maps/src/main/kotlin/Main.kt)
