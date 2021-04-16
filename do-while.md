@@ -25,7 +25,6 @@
 
 ### kotlin-courses
 
-* **Código fonte**: clique [aqui](https://github.com/ImGabreuw/kotlin-courses/blob/master/douglas-motta/do-while/src/main/kotlin/Main.kt)
 * **Exemplo**
   ```kotlin
   var temperatura: Int
@@ -44,3 +43,4 @@
 
   println("A média das temperaturas é = ${somatoria / quantidade}")
   ```
+* **Código fonte**: clique [aqui](https://github.com/ImGabreuw/kotlin-courses/blob/master/douglas-motta/do-while/src/main/kotlin/Main.kt)
