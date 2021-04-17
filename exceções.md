@@ -15,12 +15,33 @@
 
 * Exemplo
   ```kotlin
-  fun suaFuncao(valor) = 
-    if (condicao) {
-      // Código
-    } else {
-      throw IllegalArgumentException()
-    }
+  throw IllegalArgumentException()
+  ```
+  
+## Como tratar uma exceção?
+
+* Palavra cahve: ```try``` ```catch``` ```finally```
+
+<br>
+
+* Exemplo com bloco TRY-CATCH
+  ```kotlin
+  try {
+    // Código
+  } catch (e: Exception) {
+    // Código
+  }
+  ```
+  
+* Exemplo com bloco TRY-CATCH-FINALLY
+  ```kotlin
+  try {
+    // Código
+  } catch (e: Exception) {
+    // Código
+  } finally {
+    // Código
+  }
   ```
 
 ## Exemplos em projetos
@@ -38,3 +59,25 @@
   }
   ```
 * **Código fonte**: clique [aqui](https://github.com/ImGabreuw/kotlin-courses/blob/master/douglas-motta/lancar-excecoes/src/main/kotlin/Main.kt)
+
+---
+
+* **Exemplo**
+  ```kotlin
+  fun lerIdade(): Int? {
+    val reader = BufferedReader(
+        FileReader(
+            File("src/main/resources/idades.txt")
+        )
+    )
+
+    return try {
+        Integer.parseInt(reader.readLine())
+    } catch (e: NumberFormatException) {
+        null
+    } finally {
+        reader.close()
+    }
+  }
+  ```
+* **Código fonte**: clique [aqui](https://github.com/ImGabreuw/kotlin-courses/blob/master/douglas-motta/tratar-excecoes/src/main/kotlin/Main.kt)
