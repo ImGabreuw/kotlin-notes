@@ -3,22 +3,27 @@
 ## O que são?
 
 * Representa um valor ou expressão na memória
-* É declarada com a palavra-chave **var** e **val** seguido do nome
-* O tipo da variável pode ser especificado ou não depois do nome
+* É declarada com a palavra-chave ```var``` e ```val``` seguido do nome
+* O compilador pode inferir o tipo da variável com base no valor dela.
 
 ## Como usar?
 
+### Inferência de tipo
 ```kotlin
-val nome = "Gabriel" // Inferência de tipo
-val nome: String = "Gabriel" // declaração do tipo
+val nome = "Gabriel" // Tipo = String
 
-var nome: String
-nome = "Gabriel"
+val idade = 16 // Tipo = Int
 ```
 
-* 1º - declarar se é **val** ou **var**
-* 2º - definir um nome
-* 3º - atribuir um valor ou apenas declarar a assinatura da variável
+### Declaração do tipo
+
+Basta colocar o tipo da variável depois do nome dela. Veja no exemplo a abaixo:
+
+```kotlin
+val nome: String = "Gabriel"
+
+val idade: Int = 16
+```
 
 * **BOAS PRÁTICAS** - é preferível deixar o tipo da variável implícito.
 
