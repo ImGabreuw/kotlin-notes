@@ -29,5 +29,5 @@ val idade: Int = 16
 
 ## Qual a diferença entre **val**  e **var**
 
-* val - representa uma referência imutável, ou seja, seu estado uma vez declarada não pode ser alterada. (**OBS:** equivalente ao **final** do Java)
+* val - representa uma referência imutável, ou seja, seu estado uma vez declarada não pode ser alterada. (**OBS:** equivalente ao ```final``` do Java)
 * var - representa uma referência mutável, ou seja, o valor da variável pode ser alterado mesmo depois de ser declarada
