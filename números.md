@@ -9,12 +9,12 @@
 * Int <=> 32 bits - ```val meuInt: Int = 32```
 * Long <=> 64 bits - ```val meuLong: Long = 64```
 
-### Deciamis
+### Decimais
 
 * Float <=> 32 bits - ```val meuFloat: Float = 3.14F```
 * Double <=> 64 bits - ```val myDouble: Double = 3.1415```
 
-### BOAS PRÁTICAS
+## BOAS PRÁTICAS
 
 * Números com muitos dígitos, separar por ```_``` - ```val milhao: Long = 1_000_000```
 
