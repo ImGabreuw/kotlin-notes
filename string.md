@@ -4,11 +4,9 @@
 
 ### ```isEmpty()```
 
-* O que é?
+* Se não conter nenhum caractere na string, o método retorna ```true```, caso contrário, ```false```
   
-  Se não conter nenhum caractere na string, o método retorna ```true```, caso contrário, ```false```
-  
-* Como usar?
+* Exemplo
   
   ```kotlin
   var language = "Kotlin"
