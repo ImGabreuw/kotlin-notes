@@ -2,6 +2,7 @@
 
 ## O que são?
 
+* Também conhecido como interpolação
 * Formatação de strings mais fácil
 * É possível referenciar variáveis locais em strings literais por colocar o caractere **$** antes do nome da variável
 * Isso equivale à concatenação de strings no Java ("Hello " + nome + "!")
