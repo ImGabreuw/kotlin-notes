@@ -15,6 +15,22 @@
   println(language.isEmpty()) // true
   ```
   
+### ```isBlank()```
+
+* Se não conter **nenhum caractere** ou **apenas backspace** na String, o método retorna ```true```, caso contrário, ```false```.
+* Exemplo
+  
+  ```kotlin
+  var isBlank = "".isBlank()
+  println(isBlank) // true
+  
+  var isBlank = " ".isBlank()
+  println(isBlank) // true
+  
+  var isBlank = "kotlin".isBlank()
+  println(isBlank) // false
+  ```
+  
 
 ### ```length```
 
