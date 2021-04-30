@@ -28,6 +28,15 @@ if (idade >= 18) {
 }
 ````
 
+### Expressão if em uma linha
+
+````kotlin
+val idade = 20
+
+if (idade >= 18) println("Maior de idade")
+````
+
+
 ### Expressão if-else
 
 ````kotlin
@@ -38,6 +47,14 @@ if (idade >= 18) {
 } else {
   println("Menor de idade")
 }
+````
+
+### Expressão if-else em uma linha
+
+````kotlin
+val idade = 16
+
+if (idade >= 18) println("Maior de idade") else println("Menor de idade")
 ````
 
 ### Encadeamento de if-else
