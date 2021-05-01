@@ -8,6 +8,7 @@
 ## Como usar?
 
 ### Exemplo: ``==`` 
+
 ````kotlin
 val nome1 = "Gabriel"
 val nome2 = "Gabriel"
@@ -15,7 +16,9 @@ val nome2 = "Gabriel"
 println(nome1 == nome2) // true
 ````
 
-### OBS ``.equals()`` exerce a mesma função que o ``==``. Veja o exemplo abaixo:
+### OBS
+
+``.equals()`` exerce a mesma função que o ``==``
 
 ````kotlin
 val nome1 = "Gabriel"
@@ -25,6 +28,7 @@ println(nome1.equals(nome2)) // true
 ````
 
 ### Exemplo: ``!=`` 
+
 ````kotlin
 val nome1 = "Gabriel"
 val nome2 = "Kotlin"
