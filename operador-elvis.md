@@ -26,3 +26,24 @@
 
   val comprimento: Int = nome?.length ?: 0
   ````
+
+## OBS
+
+### ``?:`` + ``throw/return``
+
+* Como ``throw`` e ``return`` são expressões em Kotlin, elas também podem ser usadas no lado direito do operador elvis.
+
+* Exemplo: ``return``
+  
+  ````kotlin
+  fun getNome(pessoa: Pessoa) {
+    val nome = pessoa.getNome ?: return null
+  }
+  
+* Exemplo: ``throw``
+  
+  ````kotlin
+  fun getNome(pessoa: Pessoa) {
+    val nome = pessoa.getNome ?: throw IllegalArgumentException()
+  }
+  ````
