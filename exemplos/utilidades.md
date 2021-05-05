@@ -6,3 +6,9 @@
              Ajude a automatizar o processo de aprovação ou rejeição de descontos acadêmicos.
 * Autor: [JetBrains](https://github.com/JetBrains)
 * Repositório: [clique aqui](https://github.com/JetBrains/swot)
+
+### mosaic
+
+* Descrição: An experimental tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime
+* Autor: [JakeWharton](https://github.com/JakeWharton)
+* Repositório: [clique aqui](https://github.com/JakeWharton/mosaic)
