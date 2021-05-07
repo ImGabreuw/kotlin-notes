@@ -11,3 +11,10 @@
 * Descrição: Colocando Recursos de Localização no Aplicativo.
 * Autor: [Andressa Costa](https://github.com/andressa-costa)
 * Repositório: [clique aqui](https://github.com/andressa-costa/Localizacao-Google-Maps)
+
+
+### Submarine
+
+* Descrição: 🚤 Floating navigation view for displaying a list of items dynamically on Android.
+* Autor: [Jaewoong Eum](https://github.com/skydoves)
+* Repositório: [clique aqui](https://github.com/skydoves/Submarine)
