@@ -42,3 +42,9 @@
 * Descrição: Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device.
 * Autor: [Kieron Quinn](https://github.com/KieronQuinn)
 * Repositório: [clique aqui](https://github.com/KieronQuinn/TapTap)
+
+### Frost-for-Facebook
+
+* Descrição: An extensive and functional third party app for Facebook.
+* Autor: [Allan Wang](https://github.com/AllanWang)
+* Repositório: [clique aqui](https://github.com/AllanWang/Frost-for-Facebook)
