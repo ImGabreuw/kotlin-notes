@@ -30,3 +30,9 @@
 * Descrição: An Android application for browsing video games and checking the latest gaming news from around the world.
 * Autor: [Paul Rybitskyi](https://github.com/mars885)
 * Repositório: [clique aqui](https://github.com/mars885/gamedge)
+
+### qksms
+
+* Descrição: The most beautiful SMS messenger for Android.
+* Autor: [Moez Bhatti](https://github.com/moezbhatti)
+* Repositório: [clique aqui](https://github.com/moezbhatti/qksms)
