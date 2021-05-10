@@ -18,3 +18,9 @@
 * Descrição: 🚤 Floating navigation view for displaying a list of items dynamically on Android.
 * Autor: [Jaewoong Eum](https://github.com/skydoves)
 * Repositório: [clique aqui](https://github.com/skydoves/Submarine)
+
+### Auxio
+
+* Descrição: A simple, rational music player for android.
+* Autor: [OxygenCobalt](https://github.com/OxygenCobalt)
+* Repositório: [clique aqui](https://github.com/OxygenCobalt/Auxio)
