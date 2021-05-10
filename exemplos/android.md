@@ -48,3 +48,9 @@
 * Descrição: An extensive and functional third party app for Facebook.
 * Autor: [Allan Wang](https://github.com/AllanWang)
 * Repositório: [clique aqui](https://github.com/AllanWang/Frost-for-Facebook)
+
+### DailyDoc
+
+* Descrição: Productivity Note App utilizing Jetpack Compose.
+* Autor: [Bryan L](https://github.com/B-Lidberg)
+* Repositório: [clique aqui](https://github.com/B-Lidberg/DailyDoc)
