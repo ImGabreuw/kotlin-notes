@@ -54,3 +54,9 @@
 * Descrição: Productivity Note App utilizing Jetpack Compose.
 * Autor: [Bryan L](https://github.com/B-Lidberg)
 * Repositório: [clique aqui](https://github.com/B-Lidberg/DailyDoc)
+
+### quickie
+
+* Descrição: 📷🔍 Android QR code scanning library.
+* Autor: [Thomas Wirth](https://github.com/G00fY2)
+* Repositório: [clique aqui](https://github.com/G00fY2/quickie)
