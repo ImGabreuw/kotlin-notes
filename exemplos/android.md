@@ -24,3 +24,9 @@
 * Descrição: A simple, rational music player for android.
 * Autor: [OxygenCobalt](https://github.com/OxygenCobalt)
 * Repositório: [clique aqui](https://github.com/OxygenCobalt/Auxio)
+
+### gamedge
+
+* Descrição: An Android application for browsing video games and checking the latest gaming news from around the world.
+* Autor: [Paul Rybitskyi](https://github.com/mars885)
+* Repositório: [clique aqui](https://github.com/mars885/gamedge)
