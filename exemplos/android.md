@@ -60,3 +60,9 @@
 * Descrição: 📷🔍 Android QR code scanning library.
 * Autor: [Thomas Wirth](https://github.com/G00fY2)
 * Repositório: [clique aqui](https://github.com/G00fY2/quickie)
+
+### MovieDB-Android
+
+* Descrição: MovieDB Android Client App.
+* Autor: [Uwais Alqadri](https://github.com/uwais123)
+* Repositório: [clique aqui](https://github.com/uwais123/MovieDB-Android)
