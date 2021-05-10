@@ -36,3 +36,9 @@
 * Descrição: The most beautiful SMS messenger for Android.
 * Autor: [Moez Bhatti](https://github.com/moezbhatti)
 * Repositório: [clique aqui](https://github.com/moezbhatti/qksms)
+
+### TapTap
+
+* Descrição: Port of the double tap on back of device feature from Android 11 to any Android 7.0+ device.
+* Autor: [Kieron Quinn](https://github.com/KieronQuinn)
+* Repositório: [clique aqui](https://github.com/KieronQuinn/TapTap)
