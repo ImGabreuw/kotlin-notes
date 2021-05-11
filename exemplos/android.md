@@ -66,3 +66,9 @@
 * Descrição: MovieDB Android Client App.
 * Autor: [Uwais Alqadri](https://github.com/uwais123)
 * Repositório: [clique aqui](https://github.com/uwais123/MovieDB-Android)
+
+### CovidVaccine
+
+* Descrição: This app can be used to track open slots for vaccination. This is built using Jetpack Compose.
+* Autor: [Himanshu Singh](https://github.com/hi-manshu)
+* Repositório: [clique aqui](https://github.com/hi-manshu/CovidVaccine)
