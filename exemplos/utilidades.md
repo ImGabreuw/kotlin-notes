@@ -24,3 +24,9 @@
 * Descrição: A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts.
 * Autor: [Guillermo Mazzola](https://github.com/gmazzo)
 * Repositório: [clique aqui](https://github.com/gmazzo/gradle-buildconfig-plugin)
+
+### kotlin-ir-plugin-template
+
+* Descrição: Template for IR based Kotlin compiler plugin.
+* Autor: [Brian Norman](https://github.com/bnorm)
+* Repositório: [clique aqui](https://github.com/bnorm/kotlin-ir-plugin-template)
