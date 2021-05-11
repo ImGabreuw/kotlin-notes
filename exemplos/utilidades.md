@@ -30,3 +30,9 @@
 * Descrição: Template for IR based Kotlin compiler plugin.
 * Autor: [Brian Norman](https://github.com/bnorm)
 * Repositório: [clique aqui](https://github.com/bnorm/kotlin-ir-plugin-template)
+
+### auto-service-ksp
+
+* Descrição: A KSP implementation of AutoService.
+* Autor: [Zac Sweers](https://github.com/ZacSweers)
+* Repositório: [clique aqui](https://github.com/ZacSweers/auto-service-ksp)
