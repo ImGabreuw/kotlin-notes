@@ -18,3 +18,9 @@
 * Descrição: 🍂 Jetpack Compose image loading library which can fetch and display network images using Glide, Coil, and Fresco.
 * Autor: [skydoves](https://github.com/skydoves)
 * Repositório: [clique aqui](https://github.com/skydoves/Landscapist)
+
+### gradle-buildconfig-plugin
+
+* Descrição: A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts.
+* Autor: [Guillermo Mazzola](https://github.com/gmazzo)
+* Repositório: [clique aqui](https://github.com/gmazzo/gradle-buildconfig-plugin)
