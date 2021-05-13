@@ -90,3 +90,9 @@
 * Descrição: Use the TMDb API on your Android, iOS, and JS projects. Written in Kotlin Multiplatform.
 * Autor: [Moviebase](https://github.com/MoviebaseApp)
 * Repositório: [clique aqui](https://github.com/MoviebaseApp/tmdb-api)
+
+### Chamber
+
+* Descrição: ⚖️ A lightweight Android thread-safe pipeline for communicating between lifecycle components with custom scopes.
+* Autor: [Jaewoong Eum](https://github.com/skydoves)
+* Repositório: [clique aqui](https://github.com/skydoves/Chamber)
