@@ -17,3 +17,9 @@
 * Descrição: Sample using Spring Security.
 * Autor: [tiagolimazup](https://github.com/tiagolimazup)
 * Repositório: [clique aqui](https://github.com/tiagolimazup/sample-spring-security)
+
+### kasa-do-kodigo
+
+* Descrição: Sample using Spring.
+* Autor: [tiagolimazup](https://github.com/tiagolimazup)
+* Repositório: [clique aqui](https://github.com/tiagolimazup/kasa-do-kodigo)
