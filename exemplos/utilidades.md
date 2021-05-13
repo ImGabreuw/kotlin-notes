@@ -36,3 +36,9 @@
 * Descrição: A KSP implementation of AutoService.
 * Autor: [Zac Sweers](https://github.com/ZacSweers)
 * Repositório: [clique aqui](https://github.com/ZacSweers/auto-service-ksp)
+
+### ksp
+
+* Descrição: Kotlin Symbol Processing API.
+* Autor: [Google](https://github.com/google)
+* Repositório: [clique aqui](https://github.com/google/ksp)
