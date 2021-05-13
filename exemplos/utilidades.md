@@ -42,3 +42,9 @@
 * Descrição: Kotlin Symbol Processing API.
 * Autor: [Google](https://github.com/google)
 * Repositório: [clique aqui](https://github.com/google/ksp)
+
+### turbine
+
+* Descrição: A small testing library for kotlinx.coroutines Flow.
+* Autor: [Cash App](https://github.com/cashapp)
+* Repositório: [clique aqui](https://github.com/cashapp/turbine)
