@@ -11,3 +11,9 @@
 * Descrição: Rest Api responsible for receive city name or coordinates and produce Spotify Playlist given city temperature..
 * Autor: [Vinícius Moraes](https://github.com/vinigmoraes)
 * Repositório: [clique aqui](https://github.com/vinigmoraes/ifood-playlist-challenge)
+
+### sample-spring-security
+
+* Descrição: Sample using Spring Security.
+* Autor: [tiagolimazup](https://github.com/tiagolimazup)
+* Repositório: [clique aqui](https://github.com/tiagolimazup/sample-spring-security)
