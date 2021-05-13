@@ -73,16 +73,20 @@
 * Autor: [Himanshu Singh](https://github.com/hi-manshu)
 * Repositório: [clique aqui](https://github.com/hi-manshu/CovidVaccine)
 
-
 ### VHEditor-Android
 
 * Descrição: Run Code-server on Android.
 * Autor: [vhqtvn](https://github.com/vhqtvn)
 * Repositório: [clique aqui](https://github.com/vhqtvn/VHEditor-Android)
 
-
 ### curtains
 
 * Descrição: Lift the curtain on Android Windows.
 * Autor: [Square](https://github.com/square)
 * Repositório: [clique aqui](https://github.com/square/curtains)
+
+### tmdb-api
+
+* Descrição: Use the TMDb API on your Android, iOS, and JS projects. Written in Kotlin Multiplatform.
+* Autor: [Moviebase](https://github.com/MoviebaseApp)
+* Repositório: [clique aqui](https://github.com/MoviebaseApp/tmdb-api)
