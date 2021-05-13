@@ -48,3 +48,9 @@
 * Descrição: A small testing library for kotlinx.coroutines Flow.
 * Autor: [Cash App](https://github.com/cashapp)
 * Repositório: [clique aqui](https://github.com/cashapp/turbine)
+
+### Barista
+
+* Descrição: ☕ The one who serves a great Espresso.
+* Autor: [Adevinta Spain](https://github.com/AdevintaSpain)
+* Repositório: [clique aqui](https://github.com/AdevintaSpain/Barista)
