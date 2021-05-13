@@ -72,3 +72,11 @@
 * Descrição: This app can be used to track open slots for vaccination. This is built using Jetpack Compose.
 * Autor: [Himanshu Singh](https://github.com/hi-manshu)
 * Repositório: [clique aqui](https://github.com/hi-manshu/CovidVaccine)
+
+
+### VHEditor-Android
+
+* Descrição: Run Code-server on Android.
+* Autor: [vhqtvn](https://github.com/vhqtvn)
+* Repositório: [clique aqui](https://github.com/vhqtvn/VHEditor-Android)
+
