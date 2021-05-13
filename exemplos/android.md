@@ -96,3 +96,9 @@
 * Descrição: ⚖️ A lightweight Android thread-safe pipeline for communicating between lifecycle components with custom scopes.
 * Autor: [Jaewoong Eum](https://github.com/skydoves)
 * Repositório: [clique aqui](https://github.com/skydoves/Chamber)
+
+### korge
+
+* Descrição: KorGE Game Engine. Multiplatform Kotlin Game Engine.
+* Autor: [korlibs](https://github.com/korlibs)
+* Repositório: [clique aqui](https://github.com/korlibs/korge)
