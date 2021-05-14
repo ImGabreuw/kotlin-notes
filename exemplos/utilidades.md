@@ -60,3 +60,9 @@
 * Descrição: A library for testing Kotlin and Java annotation processors, compiler plugins and code generation.
 * Autor: [Thilo Schuchort](https://github.com/tschuchortdev)
 * Repositório: [clique aqui](https://github.com/tschuchortdev/kotlin-compile-testing)
+
+### binary-compatibility-validator
+
+* Descrição: Public API management tool.
+* Autor: [Kotlin](https://github.com/Kotlin)
+* Repositório: [clique aqui](https://github.com/Kotlin/binary-compatibility-validator)
