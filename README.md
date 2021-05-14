@@ -23,7 +23,7 @@
 * Kotlin
 
 ## 📫 Contribuição
-Para contribuir com **my-notes-about-html-and-css**, siga estas etapas:
+Para contribuir com **my-notes-about-kotlin**, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
