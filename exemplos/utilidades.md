@@ -54,3 +54,9 @@
 * Descrição: ☕ The one who serves a great Espresso.
 * Autor: [Adevinta Spain](https://github.com/AdevintaSpain)
 * Repositório: [clique aqui](https://github.com/AdevintaSpain/Barista)
+
+### kotlin-compile-testing
+
+* Descrição: A library for testing Kotlin and Java annotation processors, compiler plugins and code generation.
+* Autor: [Thilo Schuchort](https://github.com/tschuchortdev)
+* Repositório: [clique aqui](https://github.com/tschuchortdev/kotlin-compile-testing)
