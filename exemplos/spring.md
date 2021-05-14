@@ -29,3 +29,10 @@
 * Descrição: A memory leak detection library for Android.
 * Autor: [Square](https://github.com/square)
 * Repositório: [clique aqui](https://github.com/square/leakcanary)
+
+
+### smart-point-api-kotlin
+
+* Descrição: API Kotlin.
+* Autor: [Lucca Rodrigues](https://github.com/lucca-rodrigues)
+* Repositório: [clique aqui](https://github.com/lucca-rodrigues/smart-point-api-kotlin)
