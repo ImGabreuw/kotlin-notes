@@ -102,3 +102,9 @@
 * Descrição: KorGE Game Engine. Multiplatform Kotlin Game Engine.
 * Autor: [korlibs](https://github.com/korlibs)
 * Repositório: [clique aqui](https://github.com/korlibs/korge)
+
+### android-dagger-to-hilt
+
+* Descrição: Hilt is built on top of the popular DI library Dagger to benefit from the compile time correctness, runtime performance, scalability, and Android Studio support that Dagger provides.
+* Autor: [Google Codelabs](https://github.com/googlecodelabs)
+* Repositório: [clique aqui](https://github.com/googlecodelabs/android-dagger-to-hilt)
