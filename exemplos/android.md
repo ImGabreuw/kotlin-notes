@@ -126,3 +126,9 @@
 * Descrição: Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * Autor: [JetBrains](https://github.com/JetBrains)
 * Repositório: [clique aqui](https://github.com/JetBrains/compose-jb)
+
+### norris
+
+* Descrição: Showcase for Unidirectional Data Flow architecture for Android, powered by Kotlin Coroutines.
+* Autor: [Dotanuki Labs](https://github.com/dotanuki-labs)
+* Repositório: [clique aqui](https://github.com/dotanuki-labs/norris)
