@@ -108,3 +108,9 @@
 * Descrição: Hilt is built on top of the popular DI library Dagger to benefit from the compile time correctness, runtime performance, scalability, and Android Studio support that Dagger provides.
 * Autor: [Google Codelabs](https://github.com/googlecodelabs)
 * Repositório: [clique aqui](https://github.com/googlecodelabs/android-dagger-to-hilt)
+
+### SimpleAST
+
+* Descrição: Extensible Android library for both parsing text into Abstract Syntax Trees and rendering those trees as rich text.
+* Autor: [Discord](https://github.com/discord)
+* Repositório: [clique aqui](https://github.com/discord/SimpleAST)
