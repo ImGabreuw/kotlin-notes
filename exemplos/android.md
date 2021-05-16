@@ -120,3 +120,9 @@
 * Descrição: 👽 Built with MVVM pattern, Koin, Coroutines + Flows ,Architecture Components, Data Binding , Firebase , Unit/UI Tests ,Motion Layout.
 * Autor: [David Odari](https://github.com/odaridavid)
 * Repositório: [clique aqui](https://github.com/odaridavid/Clean-MVVM-ArchComponents)
+
+### compose-jb
+
+* Descrição: Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+* Autor: [JetBrains](https://github.com/JetBrains)
+* Repositório: [clique aqui](https://github.com/JetBrains/compose-jb)
