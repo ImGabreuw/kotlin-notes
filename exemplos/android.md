@@ -114,3 +114,9 @@
 * Descrição: Extensible Android library for both parsing text into Abstract Syntax Trees and rendering those trees as rich text.
 * Autor: [Discord](https://github.com/discord)
 * Repositório: [clique aqui](https://github.com/discord/SimpleAST)
+
+### Clean-MVVM-ArchComponents
+
+* Descrição: 👽 Built with MVVM pattern, Koin, Coroutines + Flows ,Architecture Components, Data Binding , Firebase , Unit/UI Tests ,Motion Layout.
+* Autor: [David Odari](https://github.com/odaridavid)
+* Repositório: [clique aqui](https://github.com/odaridavid/Clean-MVVM-ArchComponents)
