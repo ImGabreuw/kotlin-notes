@@ -72,3 +72,9 @@
 * Descrição: ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions.
 * Autor: [Google](https://github.com/google)
 * Repositório: [clique aqui](https://github.com/google/modernstorage)
+
+### ViewBindingDelegate
+
+* Descrição: Simple one-liner ViewBinding in Fragments and Activities with Kotlin 🍄 Simplify usage of Android View Binding with Kotlin Property Delegates and solve behavior of Fragment’s ViewLifecycleOwner 🌱 ViewBindingPropertyDelegate.
+* Autor: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
+* Repositório: [clique aqui](https://github.com/hoc081098/ViewBindingDelegate)
