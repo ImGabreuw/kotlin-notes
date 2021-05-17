@@ -132,3 +132,9 @@
 * Descrição: Showcase for Unidirectional Data Flow architecture for Android, powered by Kotlin Coroutines.
 * Autor: [Dotanuki Labs](https://github.com/dotanuki-labs)
 * Repositório: [clique aqui](https://github.com/dotanuki-labs/norris)
+
+### NYTimes-App
+
+* Descrição: 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥.
+* Autor: [The Code Monks](https://github.com/TheCodeMonks)
+* Repositório: [clique aqui](https://github.com/TheCodeMonks/NYTimes-App)
