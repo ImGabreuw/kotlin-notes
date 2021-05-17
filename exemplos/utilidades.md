@@ -78,3 +78,9 @@
 * Descrição: Simple one-liner ViewBinding in Fragments and Activities with Kotlin 🍄 Simplify usage of Android View Binding with Kotlin Property Delegates and solve behavior of Fragment’s ViewLifecycleOwner 🌱 ViewBindingPropertyDelegate.
 * Autor: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
 * Repositório: [clique aqui](https://github.com/hoc081098/ViewBindingDelegate)
+
+### locus-android
+
+* Descrição: An Awesome Kotlin Location library to retrieve location merely in 3 lines of code.
+* Autor: [Birju Vachhani](https://github.com/BirjuVachhani)
+* Repositório: [clique aqui](https://github.com/BirjuVachhani/locus-android)
