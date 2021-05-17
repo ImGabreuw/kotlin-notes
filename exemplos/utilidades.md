@@ -84,3 +84,9 @@
 * Descrição: An Awesome Kotlin Location library to retrieve location merely in 3 lines of code.
 * Autor: [Birju Vachhani](https://github.com/BirjuVachhani)
 * Repositório: [clique aqui](https://github.com/BirjuVachhani/locus-android)
+
+### kotlin-inject
+
+* Descrição: Dependency injection lib for kotlin.
+* Autor: [Evan Tatarka](https://github.com/evant)
+* Repositório: [clique aqui](https://github.com/evant/kotlin-inject)
