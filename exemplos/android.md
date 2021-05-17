@@ -150,3 +150,9 @@
 * Descrição: A collection of extension libraries for Jetpack Compose.
 * Autor: [Google](https://github.com/google)
 * Repositório: [clique aqui](https://github.com/google/accompanist)
+
+### E-Store
+
+* Descrição: 🛒A Minimal Expense E-Commerce App built to demonstrate the use of modern android architecture components [Navigation, Room, MotionLayout, etc..] with MVVM Architecture. ✔
+* Autor: [Ameen Essa](https://github.com/AmeenAhmed1)
+* Repositório: [clique aqui](https://github.com/AmeenAhmed1/E-Store)
