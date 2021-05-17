@@ -162,3 +162,9 @@
 * Descrição: Play MVI with Kotlin Coroutines Flow | MVI pattern on Android using Kotlin Coroutines Flow | Dagger Hilt DI | Koin DI | SharedFlow | StateFlow.
 * Autor: [Kotlin Android Open Source](https://github.com/Kotlin-Android-Open-Source)
 * Repositório: [clique aqui](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)
+
+### awesome-jetpack-compose-android-apps
+
+* Descrição: 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.
+* Autor: [Android Dev Notes](https://github.com/androiddevnotes)
+* Repositório: [clique aqui](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
