@@ -138,3 +138,9 @@
 * Descrição: 🗽 A Simple Demonstration of the New York Times App 📱 using Jsoup web crawler with MVVM Architecture 🔥.
 * Autor: [The Code Monks](https://github.com/TheCodeMonks)
 * Repositório: [clique aqui](https://github.com/TheCodeMonks/NYTimes-App)
+
+### MovieHunt
+
+* Descrição: Movie Android App written in Kotlin, MVVM, RxJava, Android Architecture Components.
+* Autor: [Engine Bai](https://github.com/enginebai)
+* Repositório: [clique aqui](https://github.com/enginebai/MovieHunt)
