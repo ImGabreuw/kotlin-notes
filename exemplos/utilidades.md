@@ -90,3 +90,9 @@
 * Descrição: Dependency injection lib for kotlin.
 * Autor: [Evan Tatarka](https://github.com/evant)
 * Repositório: [clique aqui](https://github.com/evant/kotlin-inject)
+
+### Kotlin
+
+* Descrição: All Algorithms implemented in Kotlin.
+* Autor: [The Algorithms](https://github.com/TheAlgorithms)
+* Repositório: [clique aqui](https://github.com/TheAlgorithms/Kotlin)
