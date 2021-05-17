@@ -66,3 +66,9 @@
 * Descrição: Public API management tool.
 * Autor: [Kotlin](https://github.com/Kotlin)
 * Repositório: [clique aqui](https://github.com/Kotlin/binary-compatibility-validator)
+
+### modernstorage
+
+* Descrição: ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions.
+* Autor: [Google](https://github.com/google)
+* Repositório: [clique aqui](https://github.com/google/modernstorage)
