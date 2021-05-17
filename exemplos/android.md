@@ -144,3 +144,9 @@
 * Descrição: Movie Android App written in Kotlin, MVVM, RxJava, Android Architecture Components.
 * Autor: [Engine Bai](https://github.com/enginebai)
 * Repositório: [clique aqui](https://github.com/enginebai/MovieHunt)
+
+### accompanist
+
+* Descrição: A collection of extension libraries for Jetpack Compose.
+* Autor: [Google](https://github.com/google)
+* Repositório: [clique aqui](https://github.com/google/accompanist)
