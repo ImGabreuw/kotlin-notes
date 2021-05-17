@@ -156,3 +156,9 @@
 * Descrição: 🛒A Minimal Expense E-Commerce App built to demonstrate the use of modern android architecture components [Navigation, Room, MotionLayout, etc..] with MVVM Architecture. ✔
 * Autor: [Ameen Essa](https://github.com/AmeenAhmed1)
 * Repositório: [clique aqui](https://github.com/AmeenAhmed1/E-Store)
+
+### MVI-Coroutines-Flow
+
+* Descrição: Play MVI with Kotlin Coroutines Flow | MVI pattern on Android using Kotlin Coroutines Flow | Dagger Hilt DI | Koin DI | SharedFlow | StateFlow.
+* Autor: [Kotlin Android Open Source](https://github.com/Kotlin-Android-Open-Source)
+* Repositório: [clique aqui](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)
