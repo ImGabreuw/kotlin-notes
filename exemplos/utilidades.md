@@ -114,3 +114,9 @@
 * Descrição: Compose RevealSwipe.
 * Autor: [Alexander Karkossa](https://github.com/ch4rl3x)
 * Repositório: [clique aqui](https://github.com/ch4rl3x/RevealSwipe)
+
+### RoundVisualizer
+
+* Descrição: A sound visualizer library for Android 🎶.
+* Autor: [Mohammad Reza Eram](https://github.com/mreram)
+* Repositório: [clique aqui](https://github.com/mreram/RoundVisualizer)
