@@ -96,3 +96,9 @@
 * Descrição: All Algorithms implemented in Kotlin.
 * Autor: [The Algorithms](https://github.com/TheAlgorithms)
 * Repositório: [clique aqui](https://github.com/TheAlgorithms/Kotlin)
+
+### minimise
+
+* Descrição: Minimise app built using kotlin multiplatform.
+* Autor: [Joe Birch](https://github.com/hitherejoe)
+* Repositório: [clique aqui](https://github.com/hitherejoe/minimise)
