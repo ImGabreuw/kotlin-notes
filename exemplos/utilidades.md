@@ -102,3 +102,9 @@
 * Descrição: Minimise app built using kotlin multiplatform.
 * Autor: [Joe Birch](https://github.com/hitherejoe)
 * Repositório: [clique aqui](https://github.com/hitherejoe/minimise)
+
+### mordant
+
+* Descrição: Multiplatform text styling for Kotlin command-line applications.
+* Autor: [AJ Alt](https://github.com/ajalt)
+* Repositório: [clique aqui](https://github.com/ajalt/mordant)
