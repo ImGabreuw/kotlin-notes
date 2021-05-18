@@ -108,3 +108,9 @@
 * Descrição: Multiplatform text styling for Kotlin command-line applications.
 * Autor: [AJ Alt](https://github.com/ajalt)
 * Repositório: [clique aqui](https://github.com/ajalt/mordant)
+
+### RevealSwipe
+
+* Descrição: Compose RevealSwipe.
+* Autor: [Alexander Karkossa](https://github.com/ch4rl3x)
+* Repositório: [clique aqui](https://github.com/ch4rl3x/RevealSwipe)
