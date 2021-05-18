@@ -126,3 +126,9 @@
 * Descrição: A runtime for interactive animations on Android.
 * Autor: [Rive](https://github.com/rive-app)
 * Repositório: [clique aqui](https://github.com/rive-app/rive-android)
+
+### kotlin-cli-starter
+
+* Descrição: Life is too short for Bash programming.
+* Autor: [Jean-Michel Fayard](https://github.com/jmfayard)
+* Repositório: [clique aqui](https://github.com/jmfayard/kotlin-cli-starter)
