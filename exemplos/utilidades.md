@@ -120,3 +120,9 @@
 * Descrição: A sound visualizer library for Android 🎶.
 * Autor: [Mohammad Reza Eram](https://github.com/mreram)
 * Repositório: [clique aqui](https://github.com/mreram/RoundVisualizer)
+
+### rive-android
+
+* Descrição: A runtime for interactive animations on Android.
+* Autor: [Rive](https://github.com/rive-app)
+* Repositório: [clique aqui](https://github.com/rive-app/rive-android)
