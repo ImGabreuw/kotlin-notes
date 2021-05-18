@@ -132,3 +132,9 @@
 * Descrição: Life is too short for Bash programming.
 * Autor: [Jean-Michel Fayard](https://github.com/jmfayard)
 * Repositório: [clique aqui](https://github.com/jmfayard/kotlin-cli-starter)
+
+### alkaa
+
+* Descrição: Open-source app to manage your tasks quickly and easily.
+* Autor: [Igor Escodro](https://github.com/igorescodro)
+* Repositório: [clique aqui](https://github.com/igorescodro/alkaa)
