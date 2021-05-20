@@ -168,3 +168,9 @@
 * Descrição: 👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.
 * Autor: [Android Dev Notes](https://github.com/androiddevnotes)
 * Repositório: [clique aqui](https://github.com/androiddevnotes/awesome-jetpack-compose-android-apps)
+
+### MarvelHeroes
+
+* Descrição: ❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.
+* Autor: [Jaewoong Eum](https://github.com/skydoves)
+* Repositório: [clique aqui](https://github.com/skydoves/MarvelHeroes)
