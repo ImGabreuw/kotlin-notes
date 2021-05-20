@@ -144,3 +144,9 @@
 * Descrição: Simple composable for rendering transitions between backstacks.
 * Autor: [Zach Klippenstein](https://github.com/zach-klippenstein)
 * Repositório: [clique aqui](https://github.com/zach-klippenstein/compose-backstack)
+
+### elmslie
+
+* Descrição: Kotlin TEA/ELM implementation with first class android support.
+* Autor: [Vivid Money](https://github.com/vivid-money)
+* Repositório: [clique aqui](https://github.com/vivid-money/elmslie)
