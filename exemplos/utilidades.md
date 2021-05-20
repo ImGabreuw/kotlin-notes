@@ -138,3 +138,9 @@
 * Descrição: Open-source app to manage your tasks quickly and easily.
 * Autor: [Igor Escodro](https://github.com/igorescodro)
 * Repositório: [clique aqui](https://github.com/igorescodro/alkaa)
+
+### compose-backstack
+
+* Descrição: Simple composable for rendering transitions between backstacks.
+* Autor: [Zach Klippenstein](https://github.com/zach-klippenstein)
+* Repositório: [clique aqui](https://github.com/zach-klippenstein/compose-backstack)
