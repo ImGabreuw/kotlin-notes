@@ -174,3 +174,9 @@
 * Descrição: ❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin) architecture.
 * Autor: [Jaewoong Eum](https://github.com/skydoves)
 * Repositório: [clique aqui](https://github.com/skydoves/MarvelHeroes)
+
+### ToDometer
+
+* Descrição: ✅ A meter to-do list built with Android Jetpack (Room, ViewModel, LiveData, Databinding, ViewBinding, DataStore...), MotionLayout, Kotlin Coroutines, Dagger Hilt, Material Components, ...
+* Autor: [Sergio Belda Galbis](https://github.com/serbelga)
+* Repositório: [clique aqui](https://github.com/serbelga/ToDometer)
